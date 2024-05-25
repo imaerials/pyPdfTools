@@ -1,0 +1,8 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+pyvenv.cfg
+*.pdf
+bin/*
+lib/*
